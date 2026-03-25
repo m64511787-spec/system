@@ -34,7 +34,7 @@ The following clients are available for the System program. You may use the foll
 
 The following script is available to start or restart your local validator.
 
-```sh
+```sñh
 ./scripts/restart-test-validator.sh
 ```
 
